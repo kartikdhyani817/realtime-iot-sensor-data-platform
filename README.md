@@ -1,4 +1,4 @@
-# Real-Time IoT Sensor Data Platform b
+# Real-Time IoT Sensor Data Platform 
 
 A real-time IoT data engineering project that simulates sensor devices continuously sending data, streams those events through Apache Kafka, processes and validates the incoming data, and stores the results in PostgreSQL for analytics.
 
